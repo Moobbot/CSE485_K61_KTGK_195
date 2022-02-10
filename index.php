@@ -1,6 +1,6 @@
 <!-- 
     Người code: Ngô Đức Tâm
-    Ngày: 21/10/2001
+    Ngày: 21/10021
     Đề tài: Hệ thống quản lý bệnh viện
  -->
 <?php
